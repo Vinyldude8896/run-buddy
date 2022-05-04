@@ -12,3 +12,5 @@ https://vinyldude8896.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Kevin Reid
+
+### ©️2019 Run Buddy, Inc 
