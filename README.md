@@ -1,8 +1,15 @@
 # Run Buddy
 
-### This web page was designed as a signup and information site for running trainers. This page features a nav bar to each section. Also included are a signup form, trainer bio section, and google maps API. Also features a privacu policy page.
+### User Story
 
-### This project uses HTML and CSS as welll as the google maps apimin an iframe.
+As a company who focuses on training, we have multiple trainers. I would like a website that will let people know who we are, who are trainers are, and how to contact us. When I am on the homepage, I am presented with a navigation bar where I can navigate to see what we do as a company, what a user needs to do to sign up, our trainers, and a form to contactus.
+
+### Features
+This webpage provides a section about what the company does.
+This webpage provides a section for what a client needs to do.
+This website provides a link to the trainers section and who they are
+This website provides a contact form
+This website provides a google maps location
 
 ### badges
 ![HTML](https://img.shields.io/badge/HTML-License-blue)
