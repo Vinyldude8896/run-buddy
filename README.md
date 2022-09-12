@@ -22,10 +22,10 @@ Installation:
 Clone Repository
 git clone https://github.com/Vinyldude8896/run-buddy
  
-# Install Dependencies
+#### Install Dependencies
 There are no install dependecies for this project
 
-# run the program
+#### run the program
 Right click the index.html file and view in live server.
 
 
